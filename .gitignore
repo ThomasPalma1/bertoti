@@ -1,0 +1,10 @@
+
+.project
+eng-software-III/facadepattern/.classpath
+eng-software-III/observerpattern/.classpath
+eng-software-III/facadepattern/.settings/org.eclipse.jdt.core.prefs
+eng-software-III/observerpattern/.settings/org.eclipse.jdt.core.prefs
+eng-software-III/singletonpattern/.classpath
+eng-software-III/strategypattern/.classpath
+eng-software-III/strategypattern/.settings/org.eclipse.jdt.core.prefs
+eng-software-III/singletonpattern/.settings/org.eclipse.jdt.core.prefs
